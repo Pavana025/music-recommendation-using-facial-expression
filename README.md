@@ -1,2 +1,33 @@
-# music-recommendation-using-facial-expression
-Developed an AI-based Music Recommendation System that detects a user's facial expression using a webcam and recommends songs based on emotions such as Happy, Sad, Angry, and Neutral. Built using Python, Flask, OpenCV, TensorFlow/Keras, HTML, CSS, and JavaScript to provide real-time emotion detection and personalized music recommendations.
+🎵 Emotion-Based Music Recommendation System 😄😢😠
+
+A smart system that detects your emotion from facial expressions and recommends music accordingly. This project merges computer vision and machine learning with music intelligence to create a personalized listening experience.
+
+
+
+#🚀 Features
+
+🎭 Real-time Emotion Detection using OpenCV and Deep Learning
+
+🎶 Music Recommendation based on detected emotion
+
+📊 Accurate Predictions using CNN models trained on FER2013 dataset
+
+🖥️ Interactive GUI for user-friendly experience
+
+
+
+
+
+#🧰 Tech Stack
+
+Python 🐍
+
+TensorFlow / Keras
+
+OpenCV
+
+Tkinter(for GUI)
+
+Pandas & Numpy
+
+Scikit-learn
